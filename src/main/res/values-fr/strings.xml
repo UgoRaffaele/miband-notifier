@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ble_not_supported">BLE non supporté sur cet appareil</string>
+    <string name="looking_for_miband">Détection en cours...</string>
+    <string name="not_found">MiBand introuvable. Est-il à portée et chargé ?</string>
+    <string name="choose_miband">Sélectionnez votre MiBand</string>
+    <string name="downloading_from_miband">Réception des données...</string>
+    <string name="enable_ble">Bluetooth inactif</string>
+    <string name="action_enable_ble">Activer</string>
+    <string name="scan_again">Re-détecter ?</string>
+    <string name="action_scan_again">Oui</string>
+    <string name="temp_text">Exemple</string>
+    <string name="vibrations">Vibrations</string>
+    <string name="duration">Durée</string>
+    <string name="flash">Flash</string>
+    <string name="colour">Couleur</string>
+    <string name="start">Début</string>
+    <string name="end">Fin</string>
+    <string name="user_not_present">Inactif</string>
+    <string name="no_vibrate_outside_of_period">Ne pas vibrer hors période</string>
+    <string name="done">Ok</string>
+    <string name="test_band_vibrate">Tester le vibreur</string>
+    <string name="set_band_colour">Définir la couleur des leds</string>
+    <string name="steps">pas</string>
+    <string name="distance">km</string>
+    <string name="battery">batterie</string>
+    <string name="title_preferences_main">Préférences</string>
+    <string name="title_preferences_user">Profil</string>
+    <string name="title_name_preference">Nom</string>
+    <string name="summary_name_preference">Votre nom complet</string>
+    <string name="title_height_preference">Taille</string>
+    <string name="summary_height_preference">Votre taille en cm</string>
+    <string name="title_weight_preference">Poids</string>
+    <string name="summary_weight_preference">Votre poids en kg</string>
+    <string name="title_sex_preference">Sexe</string>
+    <string name="summary_sex_preference">Votre sexe</string>
+    <string-array name="entries_sex_preference">
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
+    <string name="title_age_preference">Age</string>
+    <string name="summary_age_preference">Votre âge en années</string>
+    <string name="title_goal_preference">Objectif</string>
+    <string name="summary_goal_preference">Votre objectif quotidien en pas</string>
+    <string name="title_preferences_info">Infos</string>
+    <string name="title_mac_address_preference">Adresse MAC</string>
+    <string name="title_firmware_preference">Firmware</string>
+    <string name="title_preferences_about">A propos</string>
+    <string name="title_license_preference">Licence</string>
+</resources>
